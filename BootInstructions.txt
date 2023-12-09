@@ -1,0 +1,9 @@
+Perfexi Dosen't work well on real hardware so use a vm software of your choosing Vbox and vmware have been tested and are reccomended.
+
+For Vbox create a vm as you would normaly and my reccomendation for ram is 256 mb 
+
+Then set the video driver to vmsvga 
+
+in vmware set it to vmwaresvga 
+
+this os currently cannot be installed.

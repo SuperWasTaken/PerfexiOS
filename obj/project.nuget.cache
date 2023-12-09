@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "2k1WxefJ0rdYUVaa0tTROCCJL1TrNXaSNQweNvc9DM/sn2aQ8ErQd4aRuAJmY4goOj2KBuiMznUmIm/HsXmhAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grayg\\Documents\\GitHub\\PerfexiOS\\PERFEXIOS\\PERFEXIOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grayg\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20231206061647\\cosmos.build.0.1.0-localbuild20231206061647.nupkg.sha512",
+    "C:\\Users\\grayg\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20231206061656\\cosmos.common.0.1.0-localbuild20231206061656.nupkg.sha512",
+    "C:\\Users\\grayg\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20231206061656\\cosmos.core.0.1.0-localbuild20231206061656.nupkg.sha512",
+    "C:\\Users\\grayg\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20231206061656\\cosmos.debug.kernel.0.1.0-localbuild20231206061656.nupkg.sha512",
+    "C:\\Users\\grayg\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20231206061656\\cosmos.hal2.0.1.0-localbuild20231206061656.nupkg.sha512",
+    "C:\\Users\\grayg\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20231206061656\\cosmos.plugs.0.1.0-localbuild20231206061656.nupkg.sha512",
+    "C:\\Users\\grayg\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20231206061656\\cosmos.system2.0.1.0-localbuild20231206061656.nupkg.sha512",
+    "C:\\Users\\grayg\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20231206061656\\il2cpu.api.0.1.0-localbuild20231206061656.nupkg.sha512"
+  ],
+  "logs": []
+}
