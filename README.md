@@ -9,3 +9,5 @@
 * `UIKit`: A library of user interface components.
 * `Kernel.cs`: Bootstraps the desktop environment.
 * `Resources.cs`: Loads files from the Resources directory.
+(Many of the Mirage classes have been slightly modified and modifed versions of the classes are present)
+Original Repository for the desktop Enviroment: https://github.com/mirage-desktop/Mirage/blob/beta-1.0/src/DE/DesktopEnvironment.cs 
